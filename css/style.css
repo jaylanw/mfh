@@ -1,0 +1,102 @@
+*{
+    font-family: 'Montserrat', sans-serif !important; 
+}
+
+.header-image {
+    background: url('../assets/worship.JPG') !important;
+    background-position: center center;
+    background-size: cover;
+}
+
+
+#landingInformation {
+    padding-top: 15vh;
+}
+#serviceInformation {
+    color: white;
+
+}
+
+#aboutTitle {
+    color: black;
+    padding-bottom: 5px;   
+
+}
+
+#missionTitle{
+    color: black;
+    padding-top: 10vh;
+    padding-bottom: 5px; 
+}
+
+hr {
+    background-color: tomato;
+    width: 35%;
+    height: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    border-radius: 50px 50px 50px;
+}
+
+#missionStatement {
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+
+#homeBtn {
+    margin-top: 8px;
+   
+}
+
+.footer {
+    background-color: black;
+    height: 200px;
+    width: 100%;
+}
+
+.footerIcons {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 10px;
+    
+}
+
+#giveTitle {
+    padding-bottom: 8px;  
+    text-align: center;
+}
+
+
+
+.waysTitle {
+    padding-top: 5px;
+}
+
+#giveNowBtn {
+    margin-bottom: 20px;
+}
+
+#giveNowBtn:hover {
+    background-color: transparent;
+    color: black;
+    border-style: solid;
+    border-color: black;
+}
+
+address {
+    font-style: normal;
+    color: rgb(168, 168, 168);
+}
+
+#emailFooter {
+    color: white;
+}
+
+#emailFooter:hover {
+    opacity: 50%;
+}
+
+
